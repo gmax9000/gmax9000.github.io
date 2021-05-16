@@ -1,0 +1,11 @@
+body {
+    background-image: url("../images/sphere.png");
+    background-size: cover;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    color: aliceblue;
+    text-align: center;
+    text-shadow: 0 0 10px aliceblue;
+}
